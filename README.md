@@ -158,6 +158,6 @@ The user "osiris" on the "threat-hunt-lab" device downloaded, installed, and lau
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `osiris`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `Osiris`. The device was isolated, and the user's direct manager was notified.
 
 ---
